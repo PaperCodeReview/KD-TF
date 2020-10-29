@@ -15,4 +15,4 @@ TODO
 TODO
 
 ## Reference
-[keras example](https://keras.io/examples/vision/knowledge_distillation/) was refered.
+[keras example](https://keras.io/examples/vision/knowledge_distillation/)
